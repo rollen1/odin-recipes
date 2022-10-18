@@ -47,8 +47,8 @@ Just a really minimal website with recipes.
 
 The following tools were used in this project:
 
-- [HTML]
-- [CSS]
+- [HTML](https://html.spec.whatwg.org/multipage/)
+- [CSS](https://www.w3schools.com/css/)
 
 ## :white_check_mark: Requirements ##
 
