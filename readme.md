@@ -3,7 +3,7 @@
 
   &#xa0;
 
-  <!-- <a href="https://odinrecipes.netlify.app">Demo</a> -->
+  <a href="https://rollen1.github.io/odin-recipes/">Demo</a>
 </div>
 
 <h1 align="center">Odin Recipes</h1>
@@ -16,21 +16,8 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/rollen1/odin-recipes?color=56BEB8">
 
   <img alt="License" src="https://img.shields.io/github/license/rollen1/odin-recipes?color=56BEB8">
-
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/rollen1/odin-recipes?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/rollen1/odin-recipes?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/rollen1/odin-recipes?color=56BEB8" /> -->
 </p>
 
-<!-- Status -->
-
-<!-- <h4 align="center"> 
-	🚧  Odin Recipes 🚀 Under construction...  🚧
-</h4> 
-
-<hr> -->
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
@@ -46,27 +33,26 @@
 
 ## :dart: About ##
 
-Describe your project
+[Odin Project link](https://www.theodinproject.com/lessons/foundations-recipes)
+
+Just a really minimal website with recipes.
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Semantic HTML;\
+:heavy_check_mark: Semantic CSS;\
+:heavy_check_mark: Lightweight;
 
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [HTML]
+- [CSS]
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+None. Just launch the HTML.
 
 ## :checkered_flag: Starting ##
 
@@ -76,14 +62,6 @@ $ git clone https://github.com/rollen1/odin-recipes
 
 # Access
 $ cd odin-recipes
-
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn start
-
-# The server will initialize in the <http://localhost:3000>
 ```
 
 ## :memo: License ##
