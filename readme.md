@@ -15,6 +15,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/rollen1/odin-recipes?color=56BEB8">
 
+  <img alt="License" src="https://img.shields.io/github/license/rollen1/odin-recipes?color=56BEB8">
 </p>
 
 
